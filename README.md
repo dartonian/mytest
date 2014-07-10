@@ -8,7 +8,7 @@ travelata
 :checkered_flag: Презентация и финализация | 13 июля
 
 <h4>:link: Макеты</h4> 
-https://yadi.sk/d/2XFZ-4Z1Vmf5s Макеты
+_in:  Макеты
 https://yadi.sk/d/ezhx9lmTTUWBY Картинки для теста
 
 <h4>:earth_africa: Браузеры</h4>
